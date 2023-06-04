@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Article Recorder</string>
+    <string name="bar">欢迎来到Article recorder\n点击“存入文章”开始撰写第一篇文章</string>
+</resources>
